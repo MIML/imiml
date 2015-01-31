@@ -3,8 +3,8 @@ title: MIML
 email: hello@imiml.com
 description: > # this means to ignore newlines until "baseurl:"
   It's not how good you are; but how good you want to be!
-baseurl: "/imiml" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://imiml.com/" # the base hostname & protocol for your site
 twitter_username: _miml_
 github_username:  miml
 
